@@ -1,7 +1,19 @@
 # python-basic
-Testes em python
+Python tests
+
+Run python file
+``````
+python filename.py
+``````
+
+Run tests
+``````
+pytest filename.py
+``````
+
+or 
 
 ``````
-python file.py
+pytest tests/
 ``````
-
+to run all tests
